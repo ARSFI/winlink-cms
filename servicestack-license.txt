@@ -1,0 +1,11 @@
+# LICENSE CERTIFICATE LC-10000-FO10597-221212
+Reference: LC-10000-FO10597-221212
+Type: Free Open Source License
+Date of Issue: December 12, 2022
+Expiry: December 31, 2022
+
+# LICENSEE
+Name: Lee Inman
+
+# LICENSE KEY
+OSS GPL-3.0 2022 https://github.com/ARSFI/cms-webservices jAit2a7+mJtG3K2G8m+tKlzTF7yvQm/iW/p1SAPo/oBCKtPi22/V3ggSmXzT753K5INsM82W2dq41+zwNUsinkVk90oFZKbbw+X02hvXKBg88eeHehUV3c9F1sotTgoBKzUXLQl673s9zN3OtLGP/0S/SrUYc9orn+0syeuW3Hs=
